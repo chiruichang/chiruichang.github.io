@@ -408,7 +408,7 @@ export default function Home() {
               <a href="#about">About</a>
               <a href="#research-direction">Research</a>
               <a href="#background">Background</a>
-              <a href="/CV-Chirui-Chang.pdf">CV</a>
+              <a href="/CV-Chirui-Chang.pdf?v=20261030-5fe46d6">CV</a>
             </nav>
             <ThemeToggle />
           </div>
@@ -455,7 +455,7 @@ export default function Home() {
               <ExternalLink href="https://www.linkedin.com/in/chirui-c-18529b21b/">
                 LinkedIn
               </ExternalLink>
-              <a href="/CV-Chirui-Chang.pdf">CV</a>
+              <a href="/CV-Chirui-Chang.pdf?v=20261030-5fe46d6">CV</a>
             </div>
           </div>
         </section>
