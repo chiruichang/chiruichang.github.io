@@ -450,7 +450,9 @@ export default function Home() {
 
             <div className="profile-links" aria-label="Profile links">
               <a href="mailto:justinsheunghk@gmail.com">Email</a>
-              {/* Google Scholar is temporarily hidden from the public profile. */}
+              <ExternalLink href="https://scholar.google.com/citations?user=6kHwCIkAAAAJ&hl=en">
+                Google Scholar
+              </ExternalLink>
               <ExternalLink href="https://github.com/jUstin-crchang">GitHub</ExternalLink>
               <ExternalLink href="https://www.linkedin.com/in/chirui-c-18529b21b/">
                 LinkedIn
@@ -530,7 +532,6 @@ export default function Home() {
                 understanding, and geometry-aware learning.
               </p>
             </div>
-            {/* Google Scholar is temporarily hidden from the publications section. */}
           </div>
 
           <div className="publication-list">
